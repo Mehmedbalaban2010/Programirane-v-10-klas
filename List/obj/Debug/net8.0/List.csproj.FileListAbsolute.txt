@@ -1,0 +1,14 @@
+C:\Users\mehmed.balaban\source\repos\List\bin\Debug\net8.0\List.exe
+C:\Users\mehmed.balaban\source\repos\List\bin\Debug\net8.0\List.deps.json
+C:\Users\mehmed.balaban\source\repos\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Users\mehmed.balaban\source\repos\List\bin\Debug\net8.0\List.dll
+C:\Users\mehmed.balaban\source\repos\List\bin\Debug\net8.0\List.pdb
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.dll
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\refint\List.dll
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.pdb
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Users\mehmed.balaban\source\repos\List\obj\Debug\net8.0\ref\List.dll
