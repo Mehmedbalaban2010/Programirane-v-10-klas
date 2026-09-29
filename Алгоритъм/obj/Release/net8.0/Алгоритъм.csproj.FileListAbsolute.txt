@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\Алгоритъм\bin\Release\net8.0\Алгоритъм.exe
+C:\Users\mehme\source\repos\Алгоритъм\bin\Release\net8.0\Алгоритъм.deps.json
+C:\Users\mehme\source\repos\Алгоритъм\bin\Release\net8.0\Алгоритъм.runtimeconfig.json
+C:\Users\mehme\source\repos\Алгоритъм\bin\Release\net8.0\Алгоритъм.dll
+C:\Users\mehme\source\repos\Алгоритъм\bin\Release\net8.0\Алгоритъм.pdb
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.AssemblyInfo.cs
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.dll
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\refint\Алгоритъм.dll
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.pdb
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\Алгоритъм.genruntimeconfig.cache
+C:\Users\mehme\source\repos\Алгоритъм\obj\Release\net8.0\ref\Алгоритъм.dll
